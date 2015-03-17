@@ -1,3 +1,0 @@
-exports.exportfunc = function() {
-  console.log("I am a module. This function is in a separate file.");
-}
